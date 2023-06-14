@@ -1,7 +1,7 @@
 # Module-1-Challenge
 **Written Report**
 
-**Q1:**Given the provided data, what are three conclusions that we can draw about crowdfunding campaigns?
+**Q1:** Given the provided data, what are three conclusions that we can draw about crowdfunding campaigns?
 
 **Answer:**
 **1st Conclusion:** In compared to other category Journalism is taken for granted and underfunded and on the other side Theater is more popular in general.
@@ -13,7 +13,8 @@
 **Answer:** We have a limitation of data in terms of countries data, crowdfunding sources and data ranges.
 
 **Q3:** What are some other possible tables and/or graphs that we could create, and what additional value would they provide?
-**Answer: **
+
+**Answer:**
 1)	We can create the line chart by country and trend line of successful projects from them we can analysis which country’s successful ration is high and law.
 2)	We can create the Pie Chart of total crowdfunded raised and which projects it went to using category and subcategory and by country.
 3)	We can create the line chart by using bakers count and outcome from them we can analysis what is the ratio of bakers count in manner of successful, failed, canceled and live.
