@@ -1,7 +1,7 @@
 # Module-1-Challenge
 **Written Report**
 
-**Q1: **Given the provided data, what are three conclusions that we can draw about crowdfunding campaigns?
+**Q1:**Given the provided data, what are three conclusions that we can draw about crowdfunding campaigns?
 
 **Answer:**
 **1st Conclusion:** In compared to other category Journalism is taken for granted and underfunded and on the other side Theater is more popular in general.
@@ -9,6 +9,7 @@
 **3rd Conclusion:** In the era of games the Video Games are more popular and Successful in compared to Mobile Games.
 
 **Q2:** What are some limitations of this dataset?
+
 **Answer:** We have a limitation of data in terms of countries data, crowdfunding sources and data ranges.
 
 **Q3:** What are some other possible tables and/or graphs that we could create, and what additional value would they provide?
