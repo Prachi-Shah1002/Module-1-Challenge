@@ -18,3 +18,12 @@
 1)	We can create the line chart by country and trend line of successful projects from them we can analysis which country’s successful ration is high and law.
 2)	We can create the Pie Chart of total crowdfunded raised and which projects it went to using category and subcategory and by country.
 3)	We can create the line chart by using bakers count and outcome from them we can analysis what is the ratio of bakers count in manner of successful, failed, canceled and live.
+
+#Statistical Analysis
+
+**Q1:** Use your data to determine whether the mean or the median better summarizes the data.
+**Answer:** 
+
+
+**Q2** Use your data to determine if there is more variability with successful or unsuccessful campaigns. Does this make sense? Why or why not?
+**Answer:** 
