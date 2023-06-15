@@ -19,7 +19,7 @@
 2)	We can create the Pie Chart of total crowdfunded raised and which projects it went to using category and subcategory and by country.
 3)	We can create the line chart by using bakers count and outcome from them we can analysis what is the ratio of bakers count in manner of successful, failed, canceled and live.
 
-#Statistical Analysis
+# Statistical Analysis
 
 **Q1:** Use your data to determine whether the mean or the median better summarizes the data. 
 
