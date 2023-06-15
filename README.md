@@ -23,7 +23,7 @@
 
 **Q1:** Use your data to determine whether the mean or the median better summarizes the data. 
 
-**Answer:** From the data **The Mean** is better summarizes the data.
+**Answer:** From the data **The Mean** is summarizes the data best.
 
 
 **Q2** Use your data to determine if there is more variability with successful or unsuccessful campaigns. Does this make sense? Why or why not?
