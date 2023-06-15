@@ -27,4 +27,5 @@
 
 
 **Q2** Use your data to determine if there is more variability with successful or unsuccessful campaigns. Does this make sense? Why or why not?
+
 **Answer:** The successful has more variability and it does make sense because it has a larger number of mean value and the average bvalues lies on a larger scale.
