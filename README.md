@@ -22,6 +22,7 @@
 #Statistical Analysis
 
 **Q1:** Use your data to determine whether the mean or the median better summarizes the data. 
+
 **Answer:** From the data **The Mean** is better summarizes the data.
 
 
