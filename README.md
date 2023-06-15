@@ -23,8 +23,8 @@
 
 **Q1:** Use your data to determine whether the mean or the median better summarizes the data. 
 
-**Answer:** From the data **The Mean** is summarizes the data best. To get the better summary of data Mean provides 
+**Answer:** **The Mean** summarizes the data best because the data follows the certain variablity. Also, in this method we add all the bakers count and divide the value by the total count which provides more accurate number to finalize our data.
 
 
 **Q2** Use your data to determine if there is more variability with successful or unsuccessful campaigns. Does this make sense? Why or why not?
-**Answer:** 
+**Answer:** The successful has more variability and it does make sense because it has a larger number of mean value and the average bvalues lies on a larger scale.
